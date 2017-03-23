@@ -1,3 +1,7 @@
+
+
 Why do I need to initialize a Git Repo?
 
 How can you use the staging area to make one commit per logical change?
+
+New question. Yay!
